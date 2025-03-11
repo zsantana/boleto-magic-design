@@ -96,7 +96,7 @@ export default {
 				},
 				'fade-in': {
 					'0%': { 
-						opacity: '0',
+						opacity: '0.7',
 						transform: 'translateY(10px)'
 					},
 					'100%': { 
@@ -106,7 +106,7 @@ export default {
 				},
 				'fade-in-right': {
 					'0%': {
-						opacity: '0',
+						opacity: '0.7',
 						transform: 'translateX(10px)'
 					},
 					'100%': {
@@ -116,7 +116,7 @@ export default {
 				},
 				'slide-up': {
 					'0%': {
-						opacity: '0',
+						opacity: '0.7',
 						transform: 'translateY(20px)'
 					},
 					'100%': {

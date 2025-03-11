@@ -33,7 +33,7 @@ const FadeIn = ({
 
   return (
     <div 
-      className={cn("opacity-0", animationClass, className)} 
+      className={cn(animationClass, className)} 
       style={delayStyle}
     >
       {children}
